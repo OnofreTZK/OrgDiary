@@ -1,0 +1,38 @@
+#+TITLE: Bigger Leaner Stronger notes
+
+This file will register my thoughts, opinions, reflexions and some quotes that someday will
+be useful for me(maybe for other persons too)
+
+* Hidden Barriers Chapter
+
+** Questions
+*** What is a protein?
+*** What is carbohydrate
+*** What is a sugar?
+*** What is body fat?
+*** What is muscle?
+*** What is metabolism?
+*** What is insulin?
+*** What is a hormone?
+
+** Quotes
+
+#+begin_quote
+The beginning of wisdom is the definition of terms.
+#+end_quote
+- SOCRATES
+
+#+begin_quote
+Why are people so susceptible to inaccuracies, lies, and oddball theories like these?
+
+While that question might sound like it has a deep, complex answer, the reality is a
+lot of it can be chalked up to the simplest of things: *misunderstood words*.
+#+end_quote
+- MIKE MATTHEWS
+
+#+begin_quote
+That's why learning the precise meanings of key words is the first major hurdle you have
+to clear when you're trying to learn something new if you're going to have any hope of
+gaining a deep and practical understanding of it.
+#+end_quote
+- MIKE MATTHEWS
