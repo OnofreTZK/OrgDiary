@@ -3,7 +3,7 @@
 This file will register my thoughts, opinions, reflexions and some quotes that someday will
 be useful for me(maybe for other persons too)
 
-* Hidden Barriers Chapter
+* Hidden barriers
 
 ** Questions
 *** What is a protein?
@@ -36,3 +36,53 @@ to clear when you're trying to learn something new if you're going to have any h
 gaining a deep and practical understanding of it.
 #+end_quote
 - MIKE MATTHEWS
+
+* What most men will never know about getting fit chapter
+
+** Questions
+*** What is physiology?
+The scientific study of the normal functions of living organisms and their parts.
+
+** Quotes
+#+begin_quote
+Being ignorant is not so much a shame as being unwilling to learn.
+#+end_quote
+- BENJAMIN FRANKLIN
+
+** Notes
+ * Don't underestimate the destructive power of misunderstanding the basics of something
+   you're trying to learn and apply.
+
+** Concepts
+*** Energy
+ * Is the power received from electricity, fuel, food, and other sources to do work
+   or produce motion.
+ * Is the physical or mental strength of a person that can be directed toward some activity.
+
+*** Matter
+ * Is a physical substance, as distinct from the mind and spirit.
+ * In physics (the branch of science concerned with matter and energy), matter is that which
+   occupies space and can be moved with force, especially as distinct from energy.
+
+*** Chemistry
+ * Is the branch of science concerned with the substances of which matter is composed of,
+   the investigation of their properties and reactions, and the use of such reactions to
+   form new substances.
+
+*** Chemical
+ * Chemical means having to do with chemistry, or the interactions of substances as
+   studied in chemistry
+ * A chemical is any substances as studied in chemistry.
+   + When people refer to chemicals, they're usually talking about manmade substances,
+     but the definition isn't limited to just this meaning.
+
+*** Organism
+ * An organism is a single living thing, such as a person, animal or plant.
+
+*** Cell
+ * A cell is the basic unit of all living organisms. Some living organism exist only
+   as a single cell, and according to the most recent research(the recent here is at
+   some point before 2018), your body is made of approximately 37.2 trillion cells.
+   Cells produce energy, exchange information, multiply, and eventually die when
+   their time has come.
+
