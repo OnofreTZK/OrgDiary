@@ -83,6 +83,44 @@ Being ignorant is not so much a shame as being unwilling to learn.
  * A cell is the basic unit of all living organisms. Some living organism exist only
    as a single cell, and according to the most recent research(the recent here is at
    some point before 2018), your body is made of approximately 37.2 trillion cells.
-   Cells produce energy, exchange information, multiply, and eventually die when
+ * Cells produce energy, exchange information, multiply, and eventually die when
    their time has come.
 
+*** Tissue(Tecido)
+ * Is a group of cells in animals and plants that forms a definite kind of structural
+   material with a specific functions
+
+*** Muscle
+ * Is a tissue in the body, often attached to bones, that can tighten and relax to
+   produce motion.
+
+*** Skeletal Muscle
+ * Is a tissue connected to the skeleton to form part of the system that moves the
+   limbs(membros) and other parts of the body.
+
+*** Muscle Fiber
+ * Also called a muscle cell or /*myocyte*/, is a colletion of long, threadlike strands
+   called /*myofibrils*/(miofibrilas) that contract, along with other structural elements
+   that you find in other cells in the human body.
+
+*** Fat
+ * Is an oily(oleoso) or greasy(gorduroso) substance found in animal bodies, specially
+   when deposited as a layer under the skin or around certain organs.
+ * Is a substance of this type derived from animals and plants that is solid or liquid in
+   form, and often used in cooking.
+
+*** Organ
+ * An organ is a group of tissues that work together to perform a specific functions in
+   an organism, like the heart, skin and lungs.
+ * Skeletal muscle is not an organ because it contains just one type of tissue.
+
+*** Gram
+ * Is a unit of weight in the metric system. One pound is about 454 grams(fucking americans...).
+
+*** Kilogram
+ * Is a unit of weight in the metric system equal to 1000 grams, or 2.2 pounds.
+
+*** Celsius
+ * Is a scale of temperature on which water freezes at 0 degrees and boils at 100 degrees
+ * In the Fahrenheit scale used in the united states(...), water freezes at 32 degrees
+   and boils at 212 degrees.
