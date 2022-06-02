@@ -124,3 +124,75 @@ Being ignorant is not so much a shame as being unwilling to learn.
  * Is a scale of temperature on which water freezes at 0 degrees and boils at 100 degrees
  * In the Fahrenheit scale used in the united states(...), water freezes at 32 degrees
    and boils at 212 degrees.
+
+*** Calorie
+ * Is the energy needed to raise the temperature of 1 kilogram of water by 1 degree Celsius.
+ * This is also called kilocalorie or large calorie, and is used to represent the energy value
+   of food.
+
+*** Element
+ * An element(also called a chemical element) is a susbstance that can't be broken down into
+   smaller parts by a chemical reaction.
+ * There are more than 100 elements, and they are the primary building blocks of matter.
+
+*** Compound(Composto)
+ * Is a substance made up of two or more different elements.
+
+*** Molecule
+ * Is the smallest part particle of any compound that still exists as that substance.
+ * If you were to break a molecule down any further, it would separate into the
+   elements that make it up(meaning it would no longer exist as that original substance).
+
+*** Acid
+ * An acid is a chemical substance that can react with and sometimes dissolve other materials.
+
+*** Amino Acid
+ * An amino acid is a naturally ocurring compound found in proteins.
+
+*** Protein
+ * Is a naturally occuring compound that's composed of one or more long chains of amino acids.
+ * Proteins are an essential part of all organisms and are used to create body tissues such as
+   muscle, hair and skin, as well as various chemicals vital of life.
+
+*** Essential Amino ACid
+ * Is an amino acid needed by the body to maintain growth and health that must be obtained
+   from food.
+
+*** Gas
+ * Is a substance that is in an air-like form(not solid or liquid).
+
+*** Carbon
+ * Is a nonmetallic element found in all life and much of the matter on earth.
+
+*** Oxygen
+ * Is a colorless, odorless gas that is necessary for most living things to survive.
+
+*** Hydrogen
+ * Is a colorless, odorless, flammable gas that is the simplest and most abundant element
+   in the universe.
+
+*** Carbohydrate
+ * Is a molecule composed of carbon, oxygen, and hydrogen that can be broken down in the
+   body to release energy.
+
+*** Digestion
+ * Is the process of breaking down food so it can be used by the body.
+   
+*** Enzyme
+ * Is a substance produced by organisms that causes specific chemical reactions.
+   
+*** Metabolism
+ * Is the series of physical and chemical processes that occur in an organism in
+   order to maintain life.
+ * Involves the production of energy as well as the creation, maintenance, and destruction
+   of cells and tissues.
+
+*** Anabolism
+ * Is a metabolic process in a organism by which energy is used to make more complex
+   substances(such as tissue) from simpler ones(such as protein).
+   + This is also known as constructive metabolism.
+ 
+*** Catabolism
+ * Is the metabolic process by which more complex substances(such as proteins) are broken
+   down into simpler ones(such as amino acids), together with the release of energy.
+   + This is also known as destructive metabolism.
