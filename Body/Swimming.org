@@ -1,4 +1,4 @@
-#+TITLE Swimming Experience
+#+TITLE: Swimming Experience
 
 * Reasons
 I needed to find a cardio working out routine to replace the tread mill(it's boring for me),
