@@ -239,4 +239,71 @@ Being ignorant is not so much a shame as being unwilling to learn.
  * A diet is a special course of controlled or restricted intake of food or drink
    for a particular purpose, such as weight loss, exercice support, or maintenance therapy( a
    treatment designed to help another primary treatment to succeed).
+
+*** Sugar
+ * Is a class of sweet-tasting carbohydrate that comes from various plants, fruits, grains,
+   and other sources.
+
+*** Glucose
+ * Is a sugar that occurs widely in nature and is an important energy source in organisms.
+   + Glucose is a component of many carbohydrates.
+
+*** Milligram
+ * Is a unit of weight in the metric system equal to one-thousandth of gram.
+
+*** Milliliter(Mililitros)
+ * Is a unit of capacity in the metric system equal to a one-thousandth of a liter, which
+   is equal to about 4.2 cups in the United States(...) customary system.
+
+*** Blood Sugar
+ * Is glucose in your blood.
+ * Blood sugar refers to the concentration of glucose in your blood, measured in milligrams
+   of glucose per 100 milliliters of blood.
+
+*** Sucrose(sacarose)
+ * Is a sugar that occurs naturally in most plants and is obtained commercially especially
+   from sugarcane or sugar beets.
+   + Sucrose is commonly known as table sugar.
+
+*** Fructose
+ * Is a very sweet sugar found in many fruits and honey, as well as sucrose and high-fructose
+   corn syrup, both of which are about 50 percent fructose and 50 percent glucose.
+   + Fructose is converted into glucose by the liver(figado) and then released into the blood for use.
+
+*** Galactose
+ * Is a type of sugar found in dairy(leitaria/laticinios) products that is metabolized similarly
+   to fructose
+
+*** Lactose
+ * Lactose is a type of sugar present in milk that contains glucose and galactose.
+
+*** Glycogen
+ * Is a form of carbohydrate found primarily in the liver and muscle tissue.
+ * Glycogen is stored energy and can be readily converted to glucose to satisfy the body's
+   energy needs.
+
+*** Simple Carbohydrate
+ * Is a form of carbohydrate that breaks down quickly into glucose in the body.
+   + Fructose, lactose, and sucrose are simple carbohydrates.
+
+*** Complex Carbohydrate
+ * Is a form of carbohydrate consisting of a chain of simple carbohydrates linked together.
+   Because of this structure, a complex carbohydrate takes longer to break down into
+   glucose in the body.
+   + The sugars found in whole grains, beans, and vegetables are complex carbohydrates.
+
+*** Starch(Amido)
+ * Is a complex carbohydrate found naturally in many fruits and vegetables and added to
+   certain foods to thicken them.
+
+*** Insulin
+ * Is a hormone made in the pancreas and released into the blood when you eat food.
+ * Insulin causes muscles, organs, and fat tissue to absorb and use or store the
+   nutrients from food.
+
+*** Index
+ * An index is a system of listing information in an order that allows one to compare
+   it easily to other information.
+
+
    
