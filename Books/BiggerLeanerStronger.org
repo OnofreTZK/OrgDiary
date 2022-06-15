@@ -305,5 +305,45 @@ Being ignorant is not so much a shame as being unwilling to learn.
  * An index is a system of listing information in an order that allows one to compare
    it easily to other information.
 
+*** Glycemic Index
+ * (GI) is a numeric system that ranks how quickly the body convert various foods into
+   glucose. Foods are ranked on a scale of 0 to 100 depending on how they affect blood
+   sugar levels once eaten.
+ * A GI rating of 55 and under is considered low on the index,
+   while a rating of 56 to 69 is medium, and a rating of 70 or above is high.
+ * Simple Carbohydrates are converted into glucose quickly and thus have high GI ratings.
+   For example, sucrose's rating is 65, white bread's is 71, white rice is 89, and white
+   potato is 82.
+ * Complex carbohydrates are converted into glucose more slowly and thus have lower GI
+   ratings. For example, apples' rating is 39, black beans'is 30, peanuts' is 7, and whole
+   -grain pasta's is 42.
+
+*** Fiber
+ * Is a mostly indigestible type of carbohydrates found in many type of food, including fruits,
+   vegetables, legumes, and grains.
+
+*** Fatty Acid
+ * Is an acid found in the fats and oils of animals and plants.
+
+*** Essential Fatty Acid
+ * Is a fatty acid that's vital for proper bodily function and must be obtained from food.
+
+*** Satured Fat
+ * Is a type of fat that's solid at room temperature and in many animal and some plant sources,
+   including meat, cream, cheese, butter, lard, coconut oil, cottonseed oil, and palm kernel oil.
+
+*** Unsatured Fat
+ * Is a type of fat that's liquid at room temperature and found in many plant and some animal
+   sources, including avocado, nuts, vegetable oils, and fish.
+
+*** Trans Fatty Acid
+ * Is a type of unsatured fatty acid that's uncommon in nature and usually created artificially.
+ * "Trans fats" are often found in highly processed foods like cereals, baked goods, fast food, ice
+   cream, and frozen dinners. Anything that contains "partially hydrogenated oil" contains trans
+   fatty acids.
+
+*** Cholesterol
+ * Is a soft, waxy(ceroso) substance found in most body tissues
+ * Cholesterol is an important part of the structure of cells and is used to create different hormones.
 
    
